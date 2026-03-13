@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou a (Tatiane Carvalho da Silva)!
-- 🎓 Estudante de Desenvolvimento de Sistemas
-- 💻 Focada em Python, Web e SQL
-- 🚀 Preparando-se para o mercado de tecnologia
+- 🎓 Atualmente cursando Técnico em Desenvolvimento de Sistemas
+- 💻 Focada em aprender sobre Python, Web e SQL
+- 🚀 Preparando-se para o mundo da programação e mercado da tecnologia
 - 📫 Contato: taticsilva2601@gmail.com
